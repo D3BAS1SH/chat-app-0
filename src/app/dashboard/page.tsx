@@ -6,7 +6,7 @@ interface pageProps {
 }
 
 const page: FC<pageProps> = ({}) => {
-  return <Button>page</Button>
+  return <Button>Submit</Button>
 }
 
 export default page
